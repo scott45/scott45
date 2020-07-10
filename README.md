@@ -12,7 +12,7 @@ My knowledge about general software programming concepts, testing practices, and
 - Dependability 
 - Problem-solving 
 - Effective communicator 
-- Willingness to learn
+- Adaptability / Willingness to learn
 
 #### RELEVANT HARD SKILLS
 

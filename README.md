@@ -27,7 +27,7 @@ My knowledge about general software programming concepts, testing practices, and
 - Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
 
 
-##### CONFERENCES
+##### Conferences;
 
 - HashiConf 2019.
 - KubeCon 2019, SanDiego USA. 

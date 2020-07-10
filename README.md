@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am passionate about DevOps and Software engineering with Python, with practical experience and abilities both in software development and operations. I’m committed to automation, optimization, security, culture, Immediate software delivery and monitoring processes. My knowledge about general software programming concepts, testing practices, and deployment principles enables me to reduce the gap between development and operations for an effective software lifecycle model. 
 <!--
 **scott45/scott45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

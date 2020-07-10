@@ -17,7 +17,7 @@ My knowledge about general software programming concepts, testing practices, and
 #### RELEVANT HARD SKILLS
 
 - Agile development, Lean and Project management 
-- Development Language ( Python / Flask, Django) 
+- Development Language ( Python (Flask, Django), Bash) 
 - Linux / Unix / windows
 - Cloud Computing (AWS, GCP, Azure, DigitalOcean) 
 - Continuous Integration / Continuous deployment 
@@ -25,6 +25,7 @@ My knowledge about general software programming concepts, testing practices, and
 - Cloud Native apps / Distributed systems.
 - Virtualization / Docker / Kubernetes
 - Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
+- Distributed systems
 
 
 ##### Conferences;

@@ -22,10 +22,10 @@ My knowledge about general software programming concepts, testing practices, and
 - Cloud Computing (AWS, GCP, Azure, DigitalOcean) 
 - Continuous Integration / Continuous deployment 
 - Monitoring and Logging
-- Cloud Native apps / Distributed systems.
+- Cloud Native apps / Distributed systems
 - Virtualization / Docker / Kubernetes
 - Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
-- Distributed systems
+- Debugging complex systems / troubleshooting
 
 
 ##### Conferences;

@@ -10,12 +10,20 @@ I am passionate about DevOps and Software engineering with Python, with practica
 - Effective communicator 
 - Willingness to learn
 
-RELEVANT HARD SKILLS
-Agile development, Lean and Project management Development Language ( Python / Flask, Django) Linux / Unix / windows
-Cloud Computing (AWS, GCP, Azure, DigitalOcean) Continuous Integration / Continuous deployment Monitoring and Logging
-Cloud Native apps / Distributed systems.
-Virtualization / Docker / Kubernetes
-Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
+### RELEVANT HARD SKILLS
+
+- Agile development, 
+- Lean and Project management 
+- Development Language ( Python / Flask, Django) 
+- Linux / Unix / windows
+- Cloud Computing (AWS, GCP, Azure, DigitalOcean) 
+- Continuous Integration / Continuous deployment 
+- Monitoring and Logging
+- Cloud Native apps / Distributed systems.
+- Virtualization / Docker / Kubernetes
+- Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
+
+
 CONFERENCES
 HashiConf 2019
 KubeCon 2019, SanDiego USA. HashiConf Digital 2020

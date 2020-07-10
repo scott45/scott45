@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 I am passionate about DevOps and Software engineering with Python, with practical experience and abilities both in software development and operations. 
 
@@ -6,7 +6,7 @@ I’m committed to automation, optimization, security, culture, Immediate softwa
 
 My knowledge about general software programming concepts, testing practices, and deployment principles enables me to reduce the gap between development and operations for an effective software lifecycle model. 
 
-### RELEVANT SOFT SKILLS
+#### RELEVANT SOFT SKILLS
 
 - Teamwork 
 - Dependability 
@@ -14,7 +14,7 @@ My knowledge about general software programming concepts, testing practices, and
 - Effective communicator 
 - Willingness to learn
 
-### RELEVANT HARD SKILLS
+#### RELEVANT HARD SKILLS
 
 - Agile development, Lean and Project management 
 - Development Language ( Python / Flask, Django) 
@@ -27,17 +27,17 @@ My knowledge about general software programming concepts, testing practices, and
 - Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
 
 
-### CONFERENCES
+##### CONFERENCES
 
 - HashiConf 2019.
 - KubeCon 2019, SanDiego USA. 
 - HashiConf Digital 2020.
 
-## How to reach me;
+##### How to reach me;
 
 - Email: busingescott@gmail.com
 
-## Location;
+##### Location;
 
 - Remote
 

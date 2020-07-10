@@ -33,6 +33,14 @@ My knowledge about general software programming concepts, testing practices, and
 - KubeCon 2019, SanDiego USA. 
 - HashiConf Digital 2020.
 
+## How to reach me;
+
+- Email: busingescott@gmail.com
+
+## Location;
+
+- Remote
+
 <!--
 **scott45/scott45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -12,8 +12,7 @@ I am passionate about DevOps and Software engineering with Python, with practica
 
 ### RELEVANT HARD SKILLS
 
-- Agile development, 
-- Lean and Project management 
+- Agile development, Lean and Project management 
 - Development Language ( Python / Flask, Django) 
 - Linux / Unix / windows
 - Cloud Computing (AWS, GCP, Azure, DigitalOcean) 
@@ -24,9 +23,11 @@ I am passionate about DevOps and Software engineering with Python, with practica
 - Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
 
 
-CONFERENCES
-HashiConf 2019
-KubeCon 2019, SanDiego USA. HashiConf Digital 2020
+### CONFERENCES
+
+- HashiConf 2019.
+- KubeCon 2019, SanDiego USA. 
+- HashiConf Digital 2020.
 
 <!--
 **scott45/scott45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

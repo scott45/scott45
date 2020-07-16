@@ -10,6 +10,7 @@ My knowledge about general software programming concepts, testing practices, and
 
 - Teamwork 
 - Dependability 
+- Respect and transparency 
 - Problem-solving 
 - Effective communicator 
 - Adaptability / Willingness to learn

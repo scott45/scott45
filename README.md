@@ -27,6 +27,7 @@ My knowledge about general software programming concepts, testing practices, and
 - Virtualization / Docker / Kubernetes
 - Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
 - Debugging complex systems / troubleshooting
+- Writing documentation 
 
 
 ##### Conferences;

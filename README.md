@@ -37,9 +37,6 @@ My knowledge about general software programming concepts, testing practices, and
 - HashiConf Digital 2020.
 - KubeCon + CloudNativeCon EU Virtual 2020
 
-##### How to reach me;
-
-- Email: busingescott@gmail.com
 
 ##### Location;
 

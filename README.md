@@ -33,7 +33,7 @@ My knowledge about general software programming concepts, testing practices, and
 ##### Conferences;
 
 - HashiConf 2019
-- KubeCon 2019, SanDiego USA. 
+- KubeCon 2019, SanDiego USA
 - HashiConf Digital 2020.
 - KubeCon + CloudNativeCon EU Virtual 2020
 

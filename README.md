@@ -9,16 +9,15 @@ My knowledge about general software programming concepts, testing practices, and
 #### RELEVANT SOFT SKILLS
 
 - Teamwork 
-- Dependability 
-- Respect and transparency 
+- Delivery oriented 
 - Problem-solving 
 - Effective communicator 
-- Adaptability / Willingness to learn
+- Adaptability
 
 #### RELEVANT HARD SKILLS
 
 - Agile development, Lean and Project management 
-- Development Language ( Python (Flask, Django), Bash) 
+- Development Language ( Python, Bash) 
 - Linux / Unix / windows
 - Cloud Computing (AWS, GCP, Azure, DigitalOcean) 
 - Continuous Integration / Continuous deployment 
@@ -28,14 +27,6 @@ My knowledge about general software programming concepts, testing practices, and
 - Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
 - Debugging complex systems / troubleshooting
 - Writing documentation 
-
-
-##### Conferences;
-
-- HashiConf 2019
-- KubeCon 2019, SanDiego USA
-- HashiConf Digital 2020
-- KubeCon + CloudNativeCon EU Virtual 2020
 
 
 ##### Location;

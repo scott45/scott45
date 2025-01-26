@@ -2,7 +2,7 @@
 
 I am passionate about DevOps and Software engineering with Python, with practical experience and abilities both in software development and operations.
 
-I’m committed to automation, optimization, security, culture, Immediate software delivery and monitoring proces
+I’m committed to automation, optimization, security, culture, Immediate software delivery and monitoring proce
 
 My knowledge about general software programming concepts, testing practices, and deployment principles enables me to reduce the gap between development and operations for an effective software lifecycle model.
 

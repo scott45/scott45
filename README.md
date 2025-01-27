@@ -1,4 +1,4 @@
-#### Hi there 👋
+#### Hi there 
 
 I am passionate about DevOps and Software engineering with Python, with practical experience and abilities both in software development and operations.
 

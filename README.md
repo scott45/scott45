@@ -28,7 +28,6 @@ My knowledge about general software programming concepts, testing practices, and
 - Debugging complex systems / troubleshooting
 - Writing documentation 
 
-
 ##### Location;
 
 - Remote

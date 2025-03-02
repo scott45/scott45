@@ -1,4 +1,5 @@
 #### Hi there 
+
 I am passionate about DevOps and Software engineering with Pytho with practical experience and abilities both in software development and operations
 
 I’m committed to automation, optimization, security, culture, Immediate software delivery and monitoring

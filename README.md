@@ -1,48 +1,15 @@
-#### Hi there 
+DevOps / SRE
+- Professional at turning "it worked on my machine" into "it works on all the machines."
+- I speak fluent YAML, Bash and Python
+- My work language is automation and resilient infrastructure.
+- In a committed relationship with containers. It's getting Kubernetes.
+- Optimising everything and Reducing toil so we can all go home on time.
+- Don't worry, I've got a script for that.
 
-I am passionate about DevOps and Software engineering with Pytho with practical experience and abilities both in software development and operation
 
-I’m committed to automation, optimization, security, culture, Immediate software delivery and monitoring
 
-My knowledge about general software programming concepts, testing practices, and deployment principles enables me to reduce the gap between development and operations for an effective software lifecycle model.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scott45&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### RELEVANT SOFT SKILLS
 
-- Teamwork 
-- Delivery oriented 
-- Problem-solving 
-- Effective communicator 
-- Adaptability
 
-#### RELEVANT HARD SKILLS
-
-- Agile development, Lean and Project management 
-- Development Language ( Python, Bash) 
-- Linux / Unix / windows
-- Cloud Computing (AWS, GCP, Azure, DigitalOcean) 
-- Continuous Integration / Continuous deployment 
-- Monitoring and Logging
-- Cloud Native apps / Distributed systems
-- Virtualization / Docker / Kubernetes
-- Provisioning & Orchestration (Terraform, Ansible, Packer, Swarm, Helm, Istio) Collaboration / Integration ( Slack, Email)
-- Debugging complex systems / troubleshooting
-- Writing documentation 
-
-##### Location;
-
-- Remote
-
-<!--
-**scott45/scott45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=scott45&theme=radical)](https://git.io/streak-stats)

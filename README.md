@@ -10,5 +10,15 @@ DevOps / SRE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scott45&show_icons=true&theme=radical&cache_seconds=1800)
 
+
+
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scott45&layout=compact&theme=radical&cache_seconds=1800)
+
+
+
+
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=scott45&theme=radical&hide_border=true&cache_seconds=1800)
 

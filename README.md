@@ -1,3 +1,7 @@
+Hi there 👋
+
+[LinkedIn](https://www.linkedin.com/in/scott-businge-b27874bb/)
+
 DevOps / SRE
 - Professional at turning "it worked on my machine" into "it works on all the machines."
 - I speak fluent YAML, Bash and Python

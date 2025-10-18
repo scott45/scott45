@@ -1,7 +1,8 @@
 Hi there 👋
 
 I do DevOps / SRE and here is my [LinkedIn](https://www.linkedin.com/in/scott-businge-b27874bb/) profile
-- I'm Professional at turning "it worked on my machine" into "it works on all the machines."
+
+- I'm Professional at turning "_it worked on my machine_" into "_it works on all the machines._"
 - I speak fluent YAML, Bash and Python
 - My work language is automation and resilient infrastructure.
 - I'm in a committed relationship with containers. It's getting Kubernetes.

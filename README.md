@@ -1,6 +1,3 @@
-# (There's curently an internet shutdown in Uganda, I'm offline) 
-https://africabrief.substack.com/p/uganda-enforces-internet-blackout
-
 Hi there 👋 
 
 I do DevOps / SRE and here is my [LinkedIn](https://www.linkedin.com/in/scott-businge-b27874bb/) profile

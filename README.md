@@ -9,8 +9,6 @@ I do DevOps / SRE and here is my [LinkedIn](https://www.linkedin.com/in/scott-bu
 - I'm Optimising everything and Reducing toil so we can all go home on time.
 - Don't worry, I've got a script for that.
 
-This is what teammates say about me - https://www.linkedin.com/in/scott-businge-b27874bb/details/recommendations/
-
 
 ### 🛠 Tech Stack
 

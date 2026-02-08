@@ -4,7 +4,7 @@ I do DevOps / SRE and here is my [LinkedIn](https://www.linkedin.com/in/scott-bu
 
 - I'm Professional at turning "_it worked on my machine_" into "_it works on all the machines._"
 - I speak fluent YAML, Bash and Python
-- My work language is automation and resilient infrastructure.
+- My work language is automation and secure, resilient infrastructure.
 - I'm in a committed relationship with containers. It's getting Kubernetes.
 - I'm Optimising everything and Reducing toil so we can all go home on time.
 - Don't worry, I've got a script for that.

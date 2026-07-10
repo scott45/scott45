@@ -1,39 +1,33 @@
-Hi there 👋 
+# Hi there 👋
 
-I do DevOps / SRE and here is my [LinkedIn](https://www.linkedin.com/in/scott-businge-b27874bb/) profile
+I'm Scott Businge, a DevOps / Site Reliability Engineer who automates the boring stuff before it becomes someone's weekend.
 
-- I'm Professional at turning "_it worked on my machine_" into "_it works on all the machines._"
-- I speak fluent YAML, Bash and Python
-- My work language is automation and secure, resilient infrastructure.
-- I'm in a committed relationship with containers. It's getting Kubernetes.
-- I'm Optimising everything and Reducing toil so we can all go home on time.
-- Don't worry, I've got a script for that.
+📍 I build secure, scalable, auditable and reproducible infrastructure, CI/CD pipelines and Kubernetes platforms.
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/scott-businge-b27874bb/)
 
-### 🛠 Tech Stack
+---
+
+- I turn "it worked on my machine" into "it works in production."
+- I believe every manual task is just a script waiting to happen.
+- I speak fluent YAML, Bash and Python (occasionally English).
+- I trust Git. I don't trust `kubectl delete`.
+- I like infrastructure that's boring, predictable and well monitored.
+- If your deployment needs a runbook, I'll probably automate it.
+- My love language is GitOps.
+- I'm in a long-term relationship with containers. Kubernetes made it official.
+- PagerDuty and I have agreed to see each other less often.
+- Beyond that, I'm building [VitalScan Uganda](https://ug.vitalscan.africa/) to make preventive healthcare more accessible across Africa.
+
+### 🛠 Tech I spend too much time with
 
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-333333?style=flat-square&logo=helm&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)
-![Cloud](https://img.shields.io/badge/-Cloud-333333?style=flat-square&logo=google-cloud&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat-square&logo=argo&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat-square&logo=jenkins&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-333333?style=flat-square&logo=yaml&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat-square&logo=kubernetes)
-
-
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scott45&show_icons=true&theme=radical&cache_seconds=1800)
-
-
-
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=scott45&theme=radical&hide_border=true&cache_seconds=1800)
-
+![Helm](https://img.shields.io/badge/-Helm-333333?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat-square&logo=terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)

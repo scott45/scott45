@@ -2,7 +2,7 @@
 
 I'm Scott Businge, a DevOps / Site Reliability Engineer who automates the boring stuff before it becomes someone's weekend.
 
-📍 I build secure, scalable, auditable and reproducible infrastructure, CI/CD pipelines and Kubernetes platforms
+📍 I build secure, scalable, auditable and reproducible infrastructure, CI/CD pipelines and Kubernetes platforms.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/scott-businge-b27874bb/)
 
